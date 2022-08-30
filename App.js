@@ -28,9 +28,6 @@ app.use(express.static(
 
 app.use('/',routerApi)
 
-// app.get('/', function (req, res) {
-//     res.sendFile(path.join(__dirname, 'build', 'index.html'));
-//   });
 
 app.listen(process.env.PORT, () => {
     console.log('listening !!!!!!!');
