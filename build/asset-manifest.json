@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f3dc135.css",
-    "main.js": "/static/js/main.b9667145.js",
-    "static/js/787.c6a9a21d.chunk.js": "/static/js/787.c6a9a21d.chunk.js",
-    "index.html": "/index.html",
-    "main.1f3dc135.css.map": "/static/css/main.1f3dc135.css.map",
-    "main.b9667145.js.map": "/static/js/main.b9667145.js.map",
-    "787.c6a9a21d.chunk.js.map": "/static/js/787.c6a9a21d.chunk.js.map"
+    "main.css": "/leaReinitz/task-list-app-client/static/css/main.1f3dc135.css",
+    "main.js": "/leaReinitz/task-list-app-client/static/js/main.6e75066c.js",
+    "static/js/787.c6a9a21d.chunk.js": "/leaReinitz/task-list-app-client/static/js/787.c6a9a21d.chunk.js",
+    "index.html": "/leaReinitz/task-list-app-client/index.html",
+    "main.1f3dc135.css.map": "/leaReinitz/task-list-app-client/static/css/main.1f3dc135.css.map",
+    "main.6e75066c.js.map": "/leaReinitz/task-list-app-client/static/js/main.6e75066c.js.map",
+    "787.c6a9a21d.chunk.js.map": "/leaReinitz/task-list-app-client/static/js/787.c6a9a21d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f3dc135.css",
-    "static/js/main.b9667145.js"
+    "static/js/main.6e75066c.js"
   ]
 }
