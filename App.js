@@ -23,14 +23,13 @@ mongoose.connect(process.env.DB_CONNECT, {
 app.use(bodyParser.json())
 app.use(cors())
 app.use(express.static(
-    path.join(__dirname,"./build")));
+    path.join(__dirname,"build")));
     
+
 app.use('/',routerApi)
 
-this.app.get("*", (req, res) => {
-    res.sendFile(
-      path.join(__dirname, "./build/index.html")
-    );
+app.get('/', function (req, res) {
+    res.sendFile(path.join(__dirname, 'build', 'index.html'));
   });
 
 app.listen(process.env.PORT, () => {
